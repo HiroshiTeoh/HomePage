@@ -1,2 +1,2 @@
 # hello-github
-Website test project.
+Website test project with nginx.
