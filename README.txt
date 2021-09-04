@@ -1,1 +1,0 @@
-This is my homepage of personal website.
