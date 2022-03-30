@@ -1,3 +1,3 @@
 # hello-github
 Website test project with nginx.
-website url：https://bokzbcheung.github.io/hello-github/
+website url：https://hiroshiteoh.github.io/hello-github/
