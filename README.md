@@ -1,4 +1,4 @@
-### **GitHub的个人静态网站：**
+# **GitHub的个人静态网站：**
 ***
-[https://hiroshiteoh.github.io/hello-github/](https://hiroshiteoh.github.io/hello-github/)
+[https://hiroshiteoh.com](https://hiroshiteoh.com)
 
